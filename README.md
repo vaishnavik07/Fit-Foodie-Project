@@ -18,11 +18,11 @@ Here you can select file to be uploaded
 It shows nutritional value of scanned food
 ![Nutritional value](https://user-images.githubusercontent.com/85441257/218383152-7d74018b-5cd8-40d4-bda6-438ee11e3ece.png)
 
-All the values displayed are in milligrams:
-![image](https://user-images.githubusercontent.com/85441257/228225291-8eedcebf-5d1c-4b90-a75f-724dfc20415a.png)
+User Dashboard:
+![image](https://user-images.githubusercontent.com/85441257/228228898-ad5f6bf9-f1d7-4a29-9e38-2709e5a6de68.png)
 
 Monthly, weekly and year report visual representation:
-![image](https://user-images.githubusercontent.com/85441257/228225776-b0114776-031d-43df-821e-e7c978dde30b.png)
+![image](https://user-images.githubusercontent.com/85441257/228229030-98961dae-42c7-452c-a3e6-035c5fe0e369.png)
 
 
 Schema for the project:
