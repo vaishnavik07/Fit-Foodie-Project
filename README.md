@@ -19,13 +19,18 @@ It shows nutritional value of scanned food
 ![Nutritional value](https://user-images.githubusercontent.com/85441257/218383152-7d74018b-5cd8-40d4-bda6-438ee11e3ece.png)
 
 All the values displayed are in milligrams:
-![Dashboard](https://user-images.githubusercontent.com/85441257/218383218-e3621e10-cd97-4936-9971-9fe002a53be8.png)
+![image](https://user-images.githubusercontent.com/85441257/228225291-8eedcebf-5d1c-4b90-a75f-724dfc20415a.png)
+
+Monthly, weekly and year report visual representation:
+![image](https://user-images.githubusercontent.com/85441257/228225776-b0114776-031d-43df-821e-e7c978dde30b.png)
+
 
 Schema for the project:
 ![Schema](https://user-images.githubusercontent.com/85441257/218472406-07bca278-9036-474d-9a5a-20a98c88907e.png)
 
-## For local setup followup the following steps :
+## To run project follow the steps given below :
 
+Step 1)
 Open mysql command line client and follow the following steps.
 Paste following commands.
 
@@ -54,11 +59,12 @@ time Date default (CURRENT_DATE) not null,
 FOREIGN KEY (u_id) references accounts(id)
 );
 
-create a .env file in the same directory and add your mysql password with the attribute "MYSQL_PASS"
+Step 2)
+Create a .env file in the same directory and add your mysql user and mysql password with the attributes "MYSQL_USER" and "MYSQL_PASSWORD" respectively.
 
+Step 3)
 run following command in your terminal:
 pip install -r requirements.txt
 
-# A video demonstration link of the project is provided below ;) :
-
-link -> https://drive.google.com/file/d/1E7Gy9IPJ84IK6DiJ3y_U72G87xlQiPTU/view?usp=share_link
+Step 4)
+Run app.py file
