@@ -19,11 +19,10 @@ It shows nutritional value of scanned food
 ![Nutritional value](https://user-images.githubusercontent.com/85441257/218383152-7d74018b-5cd8-40d4-bda6-438ee11e3ece.png)
 
 User Dashboard:
-![image](https://user-images.githubusercontent.com/85441257/228228898-ad5f6bf9-f1d7-4a29-9e38-2709e5a6de68.png)
+![image](https://user-images.githubusercontent.com/85441257/228229471-3a779de9-d609-4c2d-be50-164f6355777a.png)
 
 Monthly, weekly and year report visual representation:
-![image](https://user-images.githubusercontent.com/85441257/228229030-98961dae-42c7-452c-a3e6-035c5fe0e369.png)
-
+![image](https://user-images.githubusercontent.com/85441257/228229563-afcec6df-d779-40e2-bec2-ef7338b042b4.png)
 
 Schema for the project:
 ![Schema](https://user-images.githubusercontent.com/85441257/218472406-07bca278-9036-474d-9a5a-20a98c88907e.png)
